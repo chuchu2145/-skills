@@ -8,7 +8,7 @@
 
 ## 安装
 
-将本目录整体放入 skill 加载目录即可，无需额外配置：
+将activity-bonus-form-builder目录整体放入 skill 加载目录即可，无需额外配置：
 
 ```
 activity-bonus-form-builder/
