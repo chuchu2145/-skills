@@ -1,0 +1,4 @@
+interface:
+  display_name: "活动加分表单制作skill"
+  short_description: "根据只读材料与用户提示词制作活动加分 Excel 基础分表和附加分表"
+  default_prompt: "使用 $activity-bonus-form-builder 制作本次活动的加分表单。"
